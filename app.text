@@ -1,0 +1,2 @@
+Vận dụng Text-shadow, Box-shadow xây dựng giao diện
+Sử dụng API của weather app `https://api.openweathermap.org/data/2.5/weather?q=${capitalSearch}&appid=08e17c95d240a0ce775465f85290137d`
